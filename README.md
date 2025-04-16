@@ -8,5 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Expanding the ESLint configuration
+![Blog details](https://github.com/user-attachments/assets/b253cceb-6f82-4eac-a70b-8cda9a35bd89)
+![Blog List](https://github.com/user-attachments/assets/fcea2a52-d925-44cf-8a4b-467cca498792)
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
